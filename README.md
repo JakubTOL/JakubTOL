@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JakubTOL
 - 👀 I’m interested in electronics, mechatronics and creating apps connected with real devices
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and Python
 - 📫 How to reach me: just text me 
 
 <!---

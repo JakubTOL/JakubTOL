@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @JakubTOL
-- 👀 I’m interested in electronics, mechatronics and creating apps connected with real devices
-- 🌱 I’m currently learning Python (automation of calculations, tasks and data operations)
-- 📫 How to reach me: just text me 
+- 👋 Hi, I’m Jakub.
+- 👀 I’m interested in electronics, mechatronics and creating apps connected with real devices;
+- 🌱 I’m currently developing skills in Pythonfor automation of calculations, tasks and data operations;
 
 <!---
 JakubTOL/JakubTOL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
